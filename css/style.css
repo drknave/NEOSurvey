@@ -1,0 +1,12 @@
+:root {
+	--primary-background-color: rgb(40,40,40);
+	--primary-text-color: rgb(240,240,240);
+	--primary-font: "Open Sans", Arial, sans-serif;
+	--secondary-font: "Segoe UI", Arial, sans-serif;
+}
+
+body {
+	background-color: var(--primary-background-color);
+	color: var(--primary-text-color);
+	font-family: var(--secondary-font);
+}
